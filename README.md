@@ -1,0 +1,1 @@
+a non-neutral, highly structured guide to left messaging that weaponizes rhetorical tools usually monopolized by the right. You’re welcome to use, adapt, critique, or ignore it—but I think you might find it useful
