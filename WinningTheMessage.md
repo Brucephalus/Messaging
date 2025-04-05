@@ -1,6 +1,6 @@
 # Winning the Message: A Rhetorical Field Manual for the Left
 
-How to Use the Right’s Most Effective Tools for Progressive Ends
+**How to Use the Right’s Most Effective Tools for Progressive Ends**
 
 ## 1.0 Introduction
 
