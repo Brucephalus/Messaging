@@ -362,7 +362,7 @@ Fascist rhetoric often casts the in-group as both morally superior and under sie
 
 Fascist movements often promise purification through conflict. The enemy is not just wrong but contaminating—morally, racially, spiritually. Violence (or dehumanizing language that justifies it) becomes redemptive, a necessary purge to restore the nation. Scapegoats simplify complex crises, turning anxiety into moral clarity. The catharsis of attacking these scapegoats creates emotional bonds and narrative resolution.
 
-2.4.8.3 Collapse of Epistemic Trust
+##### 2.4.8.3 Collapse of Epistemic Trust
 
 Another common thread is the deliberate erosion of shared standards for truth. Fascist rhetoric attacks journalism, science, academia, and procedural norms as corrupt or elitist. This collapse of epistemic trust creates a vacuum filled by emotional resonance, tribal identity, and leader pronouncements. If no one can be trusted, only the movement remains credible.
 
